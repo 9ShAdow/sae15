@@ -1,0 +1,2 @@
+Pour pouvoir effectuer les programmes python avec succés il faut installer le datas qu'ona déposé sur drive 
+car sur github ne le permet pas puisque les fichiers sont trop volumineux.
